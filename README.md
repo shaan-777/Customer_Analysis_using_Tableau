@@ -10,6 +10,7 @@ Customer analysis enables businesses to understand customer behaviour, identify 
 
 The project demonstrates the complete analytics workflow, including:
 
+https://public.tableau.com/app/profile/krith.thakker/viz/CustomerAnalysis_17849427230590/CustomerAnalysis?publish=yes
 - Data Collection
 - Data Cleaning
 - Data Preparation
