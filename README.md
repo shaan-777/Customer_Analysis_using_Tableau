@@ -78,17 +78,6 @@ The dashboard includes the following visualizations:
 
 ---
 
-## 📁 Project Structure
-
-```
-Customer-Analysis-using-Tableau/
-│
-├── CustomerAnalysis_v2022.3.twbx
-├── sales_06_FY2020-21.csv
-├── README.md
-```
-
----
 
 ## 🚀 How to Use
 
@@ -108,23 +97,13 @@ CustomerAnalysis_v2022.3.twbx
 
 ---
 
-## 📷 Dashboard Preview
 
-> Add screenshots of your Tableau dashboard here for better project presentation.
-
-Example:
-
-```
-images/dashboard.png
-```
-
----
 
 ## 🔗 Tableau Dashboard
 
 View the interactive dashboard here:
 
-https://public.tableau.com/views/CustomerAnalysis_16776858294640/CustomerAnalysis
+https://public.tableau.com/app/profile/krith.thakker/viz/CustomerAnalysis_17849427230590/CustomerAnalysis?publish=yes
 
 ---
 
@@ -154,9 +133,9 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Uday Kiran**
 
-GitHub: https://github.com/uday8688
+
+GitHub: https://github.com/shaan-777
 
 ---
 
